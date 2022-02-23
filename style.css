@@ -1,0 +1,8 @@
+body{background-color: #22B4EA;}
+body{font-family: Palatino; font-size: 33px; color:darkred ;}
+h1{border-style: double; border-color: black;}
+p{font-family: Bookman; font-size: 23px; color: #8216E1;}
+a{font-family: Bookman; font-size: 23px; color: #8216E1; text-decoration: none;}
+a:hover{color: black;}
+ul{list-style-type: none;}
+img{border-style: double;border-width: 5px;border-color: black; padding: ;}
